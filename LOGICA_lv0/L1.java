@@ -9,5 +9,6 @@ public class L1 {
         int num2 = sc.nextInt();
         sc.close();
         System.out.println(num1+num2);
+        
     }
 }
